@@ -8,11 +8,18 @@
 //printf -库函数 -在屏幕上打印信息
 //printf 的使用，也得打一声招呼（引用头文件	stdio.h）
 
+//
 #include <stdio.h>
   
 int main()	
 {
-	printf("比特");
+	printf("比特\n");
 
 	return 0;
 }
+
+//编译+链接+运行代码
+//快捷键 ctrl+F5（ctrl+fn+f5）
+//程序执行的太快
+//为了看到结果，设置一下VS2022的属性
+//
