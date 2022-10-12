@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-//初认常量变量
+//初识常量变量
 #include <stdio.h>
 //
 int main()
